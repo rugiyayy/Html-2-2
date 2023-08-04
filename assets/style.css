@@ -46,3 +46,13 @@ img{
     margin-left: 355px;
     padding-top: -10px;
 }
+::-webkit-scrollbar{
+    width: 18px;
+}
+::-webkit-scrollbar-thumb{
+    background-color: rgb(241,211,227);
+}
+::selection{
+background-color: rgb(241,211,227);;
+color: black;
+}
